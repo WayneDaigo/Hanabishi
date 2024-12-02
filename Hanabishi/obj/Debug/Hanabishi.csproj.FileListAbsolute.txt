@@ -1,0 +1,10 @@
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\bin\Debug\Hanabishi.exe.config
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\bin\Debug\Hanabishi.exe
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\bin\Debug\Hanabishi.pdb
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.csproj.AssemblyReference.cache
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.frmHanabishi.resources
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.Properties.Resources.resources
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.csproj.GenerateResource.cache
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.csproj.CoreCompileInputs.cache
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.exe
+C:\Users\Wayne Ysrael Elado\source\repos\Hanabishi\Hanabishi\obj\Debug\Hanabishi.pdb
